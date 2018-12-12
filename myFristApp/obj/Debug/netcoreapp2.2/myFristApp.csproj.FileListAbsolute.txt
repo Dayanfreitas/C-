@@ -1,0 +1,11 @@
+C:\Users\Dayan\Desktop\projetos\C#\myFristApp\bin\Debug\netcoreapp2.2\myFristApp.deps.json
+C:\Users\Dayan\Desktop\projetos\C#\myFristApp\bin\Debug\netcoreapp2.2\myFristApp.runtimeconfig.json
+C:\Users\Dayan\Desktop\projetos\C#\myFristApp\bin\Debug\netcoreapp2.2\myFristApp.runtimeconfig.dev.json
+C:\Users\Dayan\Desktop\projetos\C#\myFristApp\bin\Debug\netcoreapp2.2\myFristApp.dll
+C:\Users\Dayan\Desktop\projetos\C#\myFristApp\bin\Debug\netcoreapp2.2\myFristApp.pdb
+C:\Users\Dayan\Desktop\projetos\C#\myFristApp\obj\Debug\netcoreapp2.2\myFristApp.csprojAssemblyReference.cache
+C:\Users\Dayan\Desktop\projetos\C#\myFristApp\obj\Debug\netcoreapp2.2\myFristApp.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\Desktop\projetos\C#\myFristApp\obj\Debug\netcoreapp2.2\myFristApp.AssemblyInfoInputs.cache
+C:\Users\Dayan\Desktop\projetos\C#\myFristApp\obj\Debug\netcoreapp2.2\myFristApp.AssemblyInfo.cs
+C:\Users\Dayan\Desktop\projetos\C#\myFristApp\obj\Debug\netcoreapp2.2\myFristApp.dll
+C:\Users\Dayan\Desktop\projetos\C#\myFristApp\obj\Debug\netcoreapp2.2\myFristApp.pdb
