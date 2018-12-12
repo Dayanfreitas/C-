@@ -1,0 +1,11 @@
+C:\Users\Dayan\Desktop\C-\Welcome\bin\Debug\netcoreapp2.2\welcome.deps.json
+C:\Users\Dayan\Desktop\C-\Welcome\bin\Debug\netcoreapp2.2\welcome.runtimeconfig.json
+C:\Users\Dayan\Desktop\C-\Welcome\bin\Debug\netcoreapp2.2\welcome.runtimeconfig.dev.json
+C:\Users\Dayan\Desktop\C-\Welcome\bin\Debug\netcoreapp2.2\welcome.dll
+C:\Users\Dayan\Desktop\C-\Welcome\bin\Debug\netcoreapp2.2\welcome.pdb
+C:\Users\Dayan\Desktop\C-\Welcome\obj\Debug\netcoreapp2.2\welcome.csprojAssemblyReference.cache
+C:\Users\Dayan\Desktop\C-\Welcome\obj\Debug\netcoreapp2.2\welcome.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\Desktop\C-\Welcome\obj\Debug\netcoreapp2.2\welcome.AssemblyInfoInputs.cache
+C:\Users\Dayan\Desktop\C-\Welcome\obj\Debug\netcoreapp2.2\welcome.AssemblyInfo.cs
+C:\Users\Dayan\Desktop\C-\Welcome\obj\Debug\netcoreapp2.2\welcome.dll
+C:\Users\Dayan\Desktop\C-\Welcome\obj\Debug\netcoreapp2.2\welcome.pdb
