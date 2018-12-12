@@ -1,0 +1,11 @@
+C:\Users\Dayan\Desktop\C-\Addition\bin\Debug\netcoreapp2.2\Addition.deps.json
+C:\Users\Dayan\Desktop\C-\Addition\bin\Debug\netcoreapp2.2\Addition.runtimeconfig.json
+C:\Users\Dayan\Desktop\C-\Addition\bin\Debug\netcoreapp2.2\Addition.runtimeconfig.dev.json
+C:\Users\Dayan\Desktop\C-\Addition\bin\Debug\netcoreapp2.2\Addition.dll
+C:\Users\Dayan\Desktop\C-\Addition\bin\Debug\netcoreapp2.2\Addition.pdb
+C:\Users\Dayan\Desktop\C-\Addition\obj\Debug\netcoreapp2.2\Addition.csprojAssemblyReference.cache
+C:\Users\Dayan\Desktop\C-\Addition\obj\Debug\netcoreapp2.2\Addition.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\Desktop\C-\Addition\obj\Debug\netcoreapp2.2\Addition.AssemblyInfoInputs.cache
+C:\Users\Dayan\Desktop\C-\Addition\obj\Debug\netcoreapp2.2\Addition.AssemblyInfo.cs
+C:\Users\Dayan\Desktop\C-\Addition\obj\Debug\netcoreapp2.2\Addition.dll
+C:\Users\Dayan\Desktop\C-\Addition\obj\Debug\netcoreapp2.2\Addition.pdb
