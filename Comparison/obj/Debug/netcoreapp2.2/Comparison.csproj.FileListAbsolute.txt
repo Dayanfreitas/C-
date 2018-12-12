@@ -1,0 +1,11 @@
+C:\Users\Dayan\Desktop\C-\Comparison\obj\Debug\netcoreapp2.2\Comparison.csprojAssemblyReference.cache
+C:\Users\Dayan\Desktop\C-\Comparison\obj\Debug\netcoreapp2.2\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\Desktop\C-\Comparison\obj\Debug\netcoreapp2.2\Comparison.AssemblyInfoInputs.cache
+C:\Users\Dayan\Desktop\C-\Comparison\obj\Debug\netcoreapp2.2\Comparison.AssemblyInfo.cs
+C:\Users\Dayan\Desktop\C-\Comparison\bin\Debug\netcoreapp2.2\Comparison.deps.json
+C:\Users\Dayan\Desktop\C-\Comparison\bin\Debug\netcoreapp2.2\Comparison.runtimeconfig.json
+C:\Users\Dayan\Desktop\C-\Comparison\bin\Debug\netcoreapp2.2\Comparison.runtimeconfig.dev.json
+C:\Users\Dayan\Desktop\C-\Comparison\bin\Debug\netcoreapp2.2\Comparison.dll
+C:\Users\Dayan\Desktop\C-\Comparison\bin\Debug\netcoreapp2.2\Comparison.pdb
+C:\Users\Dayan\Desktop\C-\Comparison\obj\Debug\netcoreapp2.2\Comparison.dll
+C:\Users\Dayan\Desktop\C-\Comparison\obj\Debug\netcoreapp2.2\Comparison.pdb
