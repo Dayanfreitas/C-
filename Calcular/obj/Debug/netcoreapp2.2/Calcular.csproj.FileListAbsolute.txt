@@ -1,0 +1,11 @@
+C:\Users\Dayan\Desktop\C-\Calcular\obj\Debug\netcoreapp2.2\Calcular.csprojAssemblyReference.cache
+C:\Users\Dayan\Desktop\C-\Calcular\obj\Debug\netcoreapp2.2\Calcular.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\Desktop\C-\Calcular\obj\Debug\netcoreapp2.2\Calcular.AssemblyInfoInputs.cache
+C:\Users\Dayan\Desktop\C-\Calcular\obj\Debug\netcoreapp2.2\Calcular.AssemblyInfo.cs
+C:\Users\Dayan\Desktop\C-\Calcular\bin\Debug\netcoreapp2.2\Calcular.deps.json
+C:\Users\Dayan\Desktop\C-\Calcular\bin\Debug\netcoreapp2.2\Calcular.runtimeconfig.json
+C:\Users\Dayan\Desktop\C-\Calcular\bin\Debug\netcoreapp2.2\Calcular.runtimeconfig.dev.json
+C:\Users\Dayan\Desktop\C-\Calcular\bin\Debug\netcoreapp2.2\Calcular.dll
+C:\Users\Dayan\Desktop\C-\Calcular\bin\Debug\netcoreapp2.2\Calcular.pdb
+C:\Users\Dayan\Desktop\C-\Calcular\obj\Debug\netcoreapp2.2\Calcular.dll
+C:\Users\Dayan\Desktop\C-\Calcular\obj\Debug\netcoreapp2.2\Calcular.pdb
