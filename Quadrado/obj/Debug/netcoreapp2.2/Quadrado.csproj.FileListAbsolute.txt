@@ -1,0 +1,11 @@
+C:\Users\Dayan\Desktop\C-\Quadrado\obj\Debug\netcoreapp2.2\Quadrado.csprojAssemblyReference.cache
+C:\Users\Dayan\Desktop\C-\Quadrado\obj\Debug\netcoreapp2.2\Quadrado.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\Desktop\C-\Quadrado\obj\Debug\netcoreapp2.2\Quadrado.AssemblyInfoInputs.cache
+C:\Users\Dayan\Desktop\C-\Quadrado\obj\Debug\netcoreapp2.2\Quadrado.AssemblyInfo.cs
+C:\Users\Dayan\Desktop\C-\Quadrado\bin\Debug\netcoreapp2.2\Quadrado.deps.json
+C:\Users\Dayan\Desktop\C-\Quadrado\bin\Debug\netcoreapp2.2\Quadrado.runtimeconfig.json
+C:\Users\Dayan\Desktop\C-\Quadrado\bin\Debug\netcoreapp2.2\Quadrado.runtimeconfig.dev.json
+C:\Users\Dayan\Desktop\C-\Quadrado\bin\Debug\netcoreapp2.2\Quadrado.dll
+C:\Users\Dayan\Desktop\C-\Quadrado\bin\Debug\netcoreapp2.2\Quadrado.pdb
+C:\Users\Dayan\Desktop\C-\Quadrado\obj\Debug\netcoreapp2.2\Quadrado.dll
+C:\Users\Dayan\Desktop\C-\Quadrado\obj\Debug\netcoreapp2.2\Quadrado.pdb
