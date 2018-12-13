@@ -1,0 +1,11 @@
+C:\Users\Dayan\Desktop\C-\Tabela1a5\bin\Debug\netcoreapp2.2\Tabela1a5.deps.json
+C:\Users\Dayan\Desktop\C-\Tabela1a5\bin\Debug\netcoreapp2.2\Tabela1a5.runtimeconfig.json
+C:\Users\Dayan\Desktop\C-\Tabela1a5\bin\Debug\netcoreapp2.2\Tabela1a5.runtimeconfig.dev.json
+C:\Users\Dayan\Desktop\C-\Tabela1a5\bin\Debug\netcoreapp2.2\Tabela1a5.dll
+C:\Users\Dayan\Desktop\C-\Tabela1a5\bin\Debug\netcoreapp2.2\Tabela1a5.pdb
+C:\Users\Dayan\Desktop\C-\Tabela1a5\obj\Debug\netcoreapp2.2\Tabela1a5.csprojAssemblyReference.cache
+C:\Users\Dayan\Desktop\C-\Tabela1a5\obj\Debug\netcoreapp2.2\Tabela1a5.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\Desktop\C-\Tabela1a5\obj\Debug\netcoreapp2.2\Tabela1a5.AssemblyInfoInputs.cache
+C:\Users\Dayan\Desktop\C-\Tabela1a5\obj\Debug\netcoreapp2.2\Tabela1a5.AssemblyInfo.cs
+C:\Users\Dayan\Desktop\C-\Tabela1a5\obj\Debug\netcoreapp2.2\Tabela1a5.dll
+C:\Users\Dayan\Desktop\C-\Tabela1a5\obj\Debug\netcoreapp2.2\Tabela1a5.pdb
