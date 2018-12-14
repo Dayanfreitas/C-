@@ -1,0 +1,11 @@
+C:\Users\Dayan\Desktop\C-\Asterisco\bin\Debug\netcoreapp2.2\Asterisco.deps.json
+C:\Users\Dayan\Desktop\C-\Asterisco\bin\Debug\netcoreapp2.2\Asterisco.runtimeconfig.json
+C:\Users\Dayan\Desktop\C-\Asterisco\bin\Debug\netcoreapp2.2\Asterisco.runtimeconfig.dev.json
+C:\Users\Dayan\Desktop\C-\Asterisco\bin\Debug\netcoreapp2.2\Asterisco.dll
+C:\Users\Dayan\Desktop\C-\Asterisco\bin\Debug\netcoreapp2.2\Asterisco.pdb
+C:\Users\Dayan\Desktop\C-\Asterisco\obj\Debug\netcoreapp2.2\Asterisco.csprojAssemblyReference.cache
+C:\Users\Dayan\Desktop\C-\Asterisco\obj\Debug\netcoreapp2.2\Asterisco.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\Desktop\C-\Asterisco\obj\Debug\netcoreapp2.2\Asterisco.AssemblyInfoInputs.cache
+C:\Users\Dayan\Desktop\C-\Asterisco\obj\Debug\netcoreapp2.2\Asterisco.AssemblyInfo.cs
+C:\Users\Dayan\Desktop\C-\Asterisco\obj\Debug\netcoreapp2.2\Asterisco.dll
+C:\Users\Dayan\Desktop\C-\Asterisco\obj\Debug\netcoreapp2.2\Asterisco.pdb

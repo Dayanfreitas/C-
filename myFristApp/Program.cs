@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace myFristApp
+namespace MyFristApp
 {
     class Program
     {
