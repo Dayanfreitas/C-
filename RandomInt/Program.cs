@@ -8,7 +8,7 @@ namespace RandomInt
     {
         private System.Windows.Forms.Button showOutputButton;
         private System.Windows.Forms.Label outputLabel;
-        private int n;
+      
         [STAThread]
         static void Main(string[] args)
         {
