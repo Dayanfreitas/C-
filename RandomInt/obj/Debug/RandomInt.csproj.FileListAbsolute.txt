@@ -1,0 +1,7 @@
+C:\Users\Dayan\source\repos\RandomInt\RandomInt\bin\Debug\RandomInt.exe.config
+C:\Users\Dayan\source\repos\RandomInt\RandomInt\bin\Debug\RandomInt.exe
+C:\Users\Dayan\source\repos\RandomInt\RandomInt\bin\Debug\RandomInt.pdb
+C:\Users\Dayan\source\repos\RandomInt\RandomInt\obj\Debug\RandomInt.csprojAssemblyReference.cache
+C:\Users\Dayan\source\repos\RandomInt\RandomInt\obj\Debug\RandomInt.csproj.CoreCompileInputs.cache
+C:\Users\Dayan\source\repos\RandomInt\RandomInt\obj\Debug\RandomInt.exe
+C:\Users\Dayan\source\repos\RandomInt\RandomInt\obj\Debug\RandomInt.pdb
