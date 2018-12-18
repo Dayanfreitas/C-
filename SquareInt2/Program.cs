@@ -8,7 +8,7 @@ namespace SquareInt2
         private System.Windows.Forms.Button calculateButton;
         private System.Windows.Forms.Label outPutLabel;
 
-        public static void Main()
+        static void Main()
         {
             Application.Run(new SquareInt2());
         }
